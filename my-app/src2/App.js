@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import Clicker from './Clicker';
+import Pokegame from './Pokegame';
 
 class App extends Component {
     render() {
         return (
             <div className='App'>
-                <Clicker />
+                <Pokegame />
             </div>
         )
     }
