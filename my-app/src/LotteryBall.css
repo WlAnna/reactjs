@@ -1,0 +1,11 @@
+.LotteryBall {
+    border-radius: 50px;
+    border: 1px solid rgb(211, 211, 103);
+    background-color: rgb(211, 211, 103);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+}
