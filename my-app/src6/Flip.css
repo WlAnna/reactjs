@@ -1,0 +1,10 @@
+.Flip {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Flip button {
+    width: 75px;
+}
