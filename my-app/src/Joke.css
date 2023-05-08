@@ -1,0 +1,26 @@
+.Joke {
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+    display: flex;
+    line-height: 50px;
+}
+
+.Joke-buttons {
+    padding: 0 20px;
+}
+
+.Joke-buttons span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    border: 3px solid red;
+    margin: 0 5px;
+}
+
+.Joke-smile {
+    padding-left: 20px;
+}
